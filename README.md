@@ -81,7 +81,7 @@ It demonstrates practical usage of **Java Collections, File I/O, and Object-Orie
 
 ## 💻 Example Usage (Console Flow)
 
-====== Marvellous Study Tracker ======
+====== My Study Tracker ======
 
 Insert Study Log
 
@@ -108,4 +108,5 @@ Study log added successfully for date: 2025-09-13
 ```csv
 Date,Subject,Duration,Description
 2025-09-13,Java Programming,2.5,Practiced ArrayList and TreeMap
+
 2025-09-13,Database,1.5,Revised SQL Joins
